@@ -114,6 +114,10 @@ Lambda's predictor .py file is shown below:
 Lambda invocation using asynchronous triggering:
 ![Lambda-endpoint-invocation](https://user-images.githubusercontent.com/121497007/218174726-8b46af07-4f8c-410d-b7c6-88704c95ecac.jpg)
 
+Architecture summary:
+![image](https://user-images.githubusercontent.com/121497007/226707697-acea223e-3299-4417-a197-959680740537.png)
+
+
 Future scope:
 * Implementation of the model and creating an app using RestAPI to create real time predictions, I have got training and testing accuracy around 60%, but that can be increased by increasing the number of testing data images.
 
